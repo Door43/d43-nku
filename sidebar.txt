@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nku:home|Door43 (nku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nku|d43-nku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nku/archive/master.zip|d43-nku.zip]]
+
+**Recent Changes**
+{{changes>ns = nku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nku|Ethnologue data]]
+
